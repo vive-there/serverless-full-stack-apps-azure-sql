@@ -1,4 +1,4 @@
-name: 'Deploy Azure SQL Database schema 3'
+name: 'Deploy Azure SQL Database schema 4'
 
 on:
   push:
